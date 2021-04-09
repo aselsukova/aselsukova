@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aselsukova
-- 👀 I’m interested in bioinformatics, cell biology & 3D-organisation of chromotine
+- 👀 I’m interested in bioinformatics, cell biology & 3D-organisation of chromatin
 - 🌱 I’m currently learning at Novosibirsk State University, Russia (heart of Siberia)
 - 💞️ I’m looking to collaborate on everyone who interested in predicting 3D-genome
 - 📫 a.elsukova@g.nsu.ru
